@@ -13,7 +13,7 @@
 |---|---|---|
 
 
-# 📑 Useful Resources:
+# 📖 Useful Resources:
 
 | [![DSA_in_C_Tutorial](https://img.shields.io/badge/DSA_in_C_Tutorial-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_in_C_Tutorial) | [![Python_Tutorial](https://img.shields.io/badge/Python_Tutorial-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Python_Tutorial) |  |
 |---|---|---|
@@ -21,7 +21,7 @@
 [![HTML5_Tutorial](https://img.shields.io/badge/HTML5_Tutorial-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/DeviprasadShetty9833/HTML5_Tutorial)
 
 
-[![Resources](https://img.shields.io/badge/📑_Resources-FF0000?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources)
+[![Resources](https://img.shields.io/badge/📖_Resources-FF0000?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources)
 
 
 # 🙋‍♂️ Support:
