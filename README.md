@@ -21,7 +21,7 @@
 [![HTML5_Tutorial](https://img.shields.io/badge/HTML5_Tutorial-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/DeviprasadShetty9833/HTML5_Tutorial)
 
 
-[![Resources](https://img.shields.io/badge/Resources-violet?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/HTML5_Tutorial)
+[![Resources](https://img.shields.io/badge/📚_Resources-violet?style=for-the-badge&logo=book&logoColor=white)](https://github.com/DeviprasadShetty9833/Resources)
 
 
 # 🙋‍♂️ Support:
