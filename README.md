@@ -29,4 +29,4 @@ If you like ❤️ this project, give it a ⭐ (Top right of page) and share it 
 
 [![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-8A9A5B?style=for-the-badge&logo=python&logoColor=white)]()
 
-[![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-0000CD?style=for-the-badge&logo=python&logoColor=white)]()
+[![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-B2AC88?style=for-the-badge&logo=python&logoColor=white)]()
