@@ -17,7 +17,7 @@
 
 | [![DSA_in_C_Tutorial](https://img.shields.io/badge/DSA_in_C_Tutorial-000080?style=for-the-badge&logo=C&logoColor=white)](https://github.com/DeviprasadShetty9833/DSA_in_C_Tutorial) | [![Python_Tutorial](https://img.shields.io/badge/Python_Tutorial-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Python_Tutorial) | [![HTML5_Tutorial](https://img.shields.io/badge/HTML5_Tutorial-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/DeviprasadShetty9833/HTML5_Tutorial) |
 |---|---|---|
-| [![Machine_Learning](https://img.shields.io/badge/AI-Machine_Learning-006400?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Machine_Learning) | [![Qiskit](https://img.shields.io/badge/AI-Qiskit-6F00FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Qiskit) | [![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-0F52BA?style=for-the-badge&logo=python&logoColor=white)]() |  |
+| [![Machine_Learning](https://img.shields.io/badge/AI-Machine_Learning-006400?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Machine_Learning) | [![Qiskit](https://img.shields.io/badge/AI-Qiskit-6F00FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Qiskit) | [![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-0000CD?style=for-the-badge&logo=python&logoColor=white)]() |  |
 
 
 # 🙋‍♂️ Support:
