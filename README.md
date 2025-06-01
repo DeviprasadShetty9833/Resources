@@ -25,7 +25,7 @@ If you like ❤️ this project, give it a ⭐ (Top right of page) and share it 
 
 [![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-228B22?style=for-the-badge&logo=python&logoColor=white)]()
 
-[![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-00FF7F?style=for-the-badge&logo=python&logoColor=white)]()
+[![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-D0F0C0?style=for-the-badge&logo=python&logoColor=white)]()
 
 [![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-0000CD?style=for-the-badge&logo=python&logoColor=white)]()
 
