@@ -28,3 +28,5 @@ If you like ❤️ this project, give it a ⭐ (Top right of page) and share it 
 
 
 [![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-0000CD?style=for-the-badge&logo=python&logoColor=white)]()
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=A52A2A,A52A2A&height=150&section=footer&animation=fadeIn)
