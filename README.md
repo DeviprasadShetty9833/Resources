@@ -22,3 +22,6 @@
 
 # 🙋‍♂️ Support:
 If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
+
+[![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-228B22?style=for-the-badge&logo=python&logoColor=white)]()
+
