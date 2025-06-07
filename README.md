@@ -23,7 +23,7 @@
 | [![Machine_Learning](https://img.shields.io/badge/AI-Machine_Learning-006400?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Machine_Learning) | [![Qiskit](https://img.shields.io/badge/AI-Qiskit-6F00FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Qiskit) | [![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-4F7942?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Deep_Learning/tree/main) |
 |   |   |   |
 
-[![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-0000CD?style=for-the-badge&logo=python&logoColor=white)]()
+[![Deep_Learning](https://img.shields.io/badge/AI-Deep_Learning-0000CD?style=for-the-badge&logo=python&logoColor=white)]
 
 # Support:
 If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
